@@ -1,2 +1,4 @@
 # hello-world
-Trying out the system
+Hi humans!
+Leon Here. I would like to learn this system.
+
